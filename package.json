@@ -1,0 +1,22 @@
+{
+  "name": "conwaysgameoflife",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gameOfLife.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solidlikeplato/ConwaysGameOfLife.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/solidlikeplato/ConwaysGameOfLife/issues"
+  },
+  "homepage": "https://github.com/solidlikeplato/ConwaysGameOfLife#readme",
+  "devDependencies": {
+    "mocha": "^7.0.1"
+  }
+}
