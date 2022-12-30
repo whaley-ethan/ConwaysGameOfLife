@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/solidlikeplato/ConwaysGameOfLife#readme",
   "devDependencies": {
-    "mocha": "^7.0.1"
+    "mocha": "^10.2.0"
   }
 }
